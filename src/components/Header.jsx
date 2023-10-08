@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from "react";
-import logo from "../assets/img/logo.png";
+import logo from "../assets/img/Elitecode_BLK_with_footer.png";
 import { useScreenSize } from "../hooks/useMobile";
 import { BarIcon, ClearIcon } from "./Icon";
 const Header = () => {

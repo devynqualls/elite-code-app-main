@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/img/white-logo.png";
+// import logo from "../assets/img/Elitecode_BLK_with_footer.png";
 import { Email, Phone, Telegram } from "./Icon";
 const Contact = () => {
 	const handleSubmit = (e) => {
@@ -18,7 +18,7 @@ const Contact = () => {
 				<div className="contact-wrapper">
 					<div className="contact-left">
 						<div className="w-100">
-							<img src={logo} className="logo" alt="" />
+							{/* <img src={logo} className="logo" alt="" /> */}
 							<ul className="info">
 								<li>
 									<a href="tel:454545454545">

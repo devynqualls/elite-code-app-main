@@ -48,9 +48,9 @@
 	--title: #101010;
 	--text: #474747;
 	--body: #ffffff;
-	--section: #fff8eb;
+	--section: #ebeeff;
 	--white: #ffffff;
-	--base: #e89c31;
+	--base: #e00029;
 	--body-fonts: "Maprope", sans-serif;
 	--heading-fonts: "Maprope", sans-serif;
 	--border: #a1a1a1;
@@ -182,7 +182,7 @@ a {
 	border-radius: 180px;
 	transition: all ease 0.3s;
 	&:hover {
-		color: var(--title);
+		color: #0e00d9;
 		background: transparent;
 	}
 }
@@ -199,7 +199,7 @@ header {
 	font-weight: 700;
 	line-height: normal;
 	border-radius: 48px;
-	border: 1px solid var(--e-89-c-31, #e89c31);
+	border: 1px solid var(--e-89-c-31, #0e00d9);
 	padding: 9px 28px;
 	&:hover {
 		background: var(--base);
